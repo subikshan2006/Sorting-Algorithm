@@ -65,7 +65,6 @@ i) #Selection Sort.
 ii) #Insertion Sort.
 ![Screenshot 2023-11-26 155035](https://github.com/subikshan2006/Sorting-Algorithm/assets/139841805/834d85ef-5eef-4aa4-ad06-56ee336d8526)
 
-##Result:
-Thus the program is written to perform selection sort and insertion sort using python programming.
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
